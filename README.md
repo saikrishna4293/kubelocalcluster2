@@ -21,9 +21,7 @@ Note: Save the output last 10 lines and execute 3 commands shown in stdout <br /
 For calico reference (https://kubernetes.io/docs/setup/independent/create-cluster-kubeadm/) <br />
 After init we apply calico cni <br />
 ```
-kubectl apply -f https://docs.projectcalico.org/v3.1/getting-started/kubernetes/installation/hosted/rbac-kdd.yaml
-```
-```
+kubectl apply -f https://docs.projectcalico.org/v3.1/getting-started/kubernetes/installation/hosted/rbac-kdd.yaml <br />
 kubectl apply -f https://docs.projectcalico.org/v3.1/getting-started/kubernetes/installation/hosted/kubernetes-datastore/calico-networking/1.7/calico.yaml
 ```
 You should now have some pods on your cluster and the master node should be ready <br />
