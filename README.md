@@ -28,6 +28,7 @@ You should now have some pods on your cluster and the master node should be read
 ```
 kubectl get pods --all-namespaces
 ```
+```
 kubectl get nodes
 ```
 master should be ready <br />
