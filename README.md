@@ -34,13 +34,19 @@ kubectl get nodes
 master should be ready <br />
 
 ## In Node
+
 ```
 vagrant ssh worker1
 ```
 execute join command 
+#### Do the same for worker 2 also
+```
+vagrant ssh worker2
+```
+execute join command 
 
-```
-The cluster is now setup, Go to master and work your way, Happy Coding!
-```
-### For original reference follow the below link 
+### The cluster is now setup, Go to master and work your way, Happy Coding!
+
+
+For original reference follow the below link 
 ### https://www.stratoscale.com/blog/kubernetes/installing-kubernetes-bare-metal/
