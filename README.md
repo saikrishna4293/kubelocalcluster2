@@ -1,6 +1,4 @@
 # How to Setup a Kubernetes Local cluster with vagrant
-### Modified by: Saikrishna
-#### Reference from: Dorothy Norris
 Here we have 
   * one master ubuntu <br />
   * two nodes ubuntu <br />
@@ -51,3 +49,5 @@ execute join command
 For original reference follow the below link 
 ### https://www.stratoscale.com/blog/kubernetes/installing-kubernetes-bare-metal/
 
+### Modified by: Saikrishna
+### Took reference from: Dorothy Norris
