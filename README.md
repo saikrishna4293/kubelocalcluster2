@@ -23,7 +23,7 @@ You should now have some pods on your cluster and the master node should be read
 => kubectl get nodes <br />
 master should be ready <br />
 
-##In Node
+## In Node
 execute join command 
 ```
 The cluster is now setup, Go to master and work your way, Happy Coding!
