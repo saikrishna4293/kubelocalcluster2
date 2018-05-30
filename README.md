@@ -50,4 +50,4 @@ For original reference follow the below link
 ### https://www.stratoscale.com/blog/kubernetes/installing-kubernetes-bare-metal/
 
 ### Modified by: Saikrishna
-### Took reference from: Dorothy Norris
+### Reference from: Dorothy Norris
