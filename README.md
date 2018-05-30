@@ -17,7 +17,7 @@ vagrant ssh master
 ```
 sudo kubeadm init --apiserver-advertise-address=192.168.56.20 --pod-network-cidr=192.168.0.0/16
 ```
-Note: Save the output last 10 lines and execute 3 commands shown in stdout <br />
+#### Note: Save the output last 10 lines and execute 3 commands shown in stdout <br />
 For calico reference (https://kubernetes.io/docs/setup/independent/create-cluster-kubeadm/) <br />
 After init we apply calico cni <br />
 ```
